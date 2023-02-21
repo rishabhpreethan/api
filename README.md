@@ -3,7 +3,7 @@
 > curl
 * used to send data back and forth locally
 
-##### If an endpoint contains {} then the value in it has to be replaced
+### If an endpoint contains {} then the value in it has to be replaced
 * eg:
 >https://api.spotify.com/v1/users/{user_id}/playlists
 - here the user id is in {}
