@@ -10,5 +10,9 @@ def shorten_link(full_link,link_name):
 
 full_link=input("Enter a link that you want to shorten\n")
 link_name=input("Enter the name\n")
+
 # shorten_link("https://gogoanime.co.in/","gogo")
+# gave an exist status of 3
+# which means that the link was already taken
+
 print(shorten_link(full_link,link_name))
