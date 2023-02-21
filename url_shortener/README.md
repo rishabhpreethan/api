@@ -1,3 +1,6 @@
+## Go to
+>https://cutt.ly/api-documentation/regular-api
+
 # EXIT STATUS
 
 * url => status : 1	:   the shortened link comes from the domain that shortens the link, i.e. the link has already been shortened
